@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_sapal" default="compile.module.sapal">
+  <dirname property="module.sapal.basedir" file="${ant.file.module_sapal}"/>
+  
+  <property name="module.jdk.home.sapal" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.sapal" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.sapal" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.sapal" value="-encoding UTF-8 -source 1.7 -target 1.7 ${compiler.args}"/>
+  
+  <property name="sapal.output.dir" value="${module.sapal.basedir}/build/classes/production/Sapal"/>
+  <property name="sapal.testoutput.dir" value="${module.sapal.basedir}/build/classes/test/Sapal"/>
+  
+  <path id="sapal.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="sapal.module.production.classpath">
+    <path refid="${module.jdk.classpath.sapal}"/>
+  </path>
+  
+  <path id="sapal.runtime.production.module.classpath">
+    <pathelement location="${sapal.output.dir}"/>
+  </path>
+  
+  <path id="sapal.module.classpath">
+    <path refid="${module.jdk.classpath.sapal}"/>
+    <pathelement location="${sapal.output.dir}"/>
+  </path>
+  
+  <path id="sapal.runtime.module.classpath">
+    <pathelement location="${sapal.testoutput.dir}"/>
+    <pathelement location="${sapal.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.sapal">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.sapal">
+    <patternset refid="excluded.from.module.sapal"/>
+  </patternset>
+  
+  
+  <target name="compile.module.sapal" depends="compile.module.sapal.production,compile.module.sapal.tests" description="Compile module Sapal"/>
+  
+  <target name="compile.module.sapal.production" depends="register.custom.compilers" description="Compile module Sapal; production classes"/>
+  
+  <target name="compile.module.sapal.tests" depends="register.custom.compilers,compile.module.sapal.production" description="compile module Sapal; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.sapal" description="cleanup module">
+    <delete dir="${sapal.output.dir}"/>
+    <delete dir="${sapal.testoutput.dir}"/>
+  </target>
+</project>

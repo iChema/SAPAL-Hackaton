@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_8182cb14e6a395eeace1d376b562825f0e043622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_969892563b230fe1447e03239a12a782ff1f4461/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="019f7178ee804df86f63d409625683255bb96166">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ef9fb522635ccab5b6f1383bf23f2bd754d88a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_bcd7a0fba91e39278fea4c8411e1cd0381874ef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_cbe58ba5992ad8328906a11b794714196f60b341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_8edab53a0e1fd8ceaa93ea1e6bef0d0c660a39e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_98c8777a851d1894522479d28c607a631012b474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_715ac73c5586e2246f5d73df4383644010b6dce6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_e896dcc066eeca2b47348d7a77da0ccb5e858a5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_75ef919fc88e96ccedf223bae8d849b246292bca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_f65959533c02f17333c7655fdb34fe484716eacb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_2dd9578a51de370f3d90021434359a4a01f45158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_8632edf43e2035e7240b06b2016bc2697bffed7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_4b609ea842192c61a0798b357760402d17e33f53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_07a8335840e8719595913ed3de299b43491d84f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_abe1e697956157f0a09f36768b58a653671b3c8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_c4c625f1fa121cb56e2c0f28410cb41b64e539ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_406e9ccbf1a726060978849b93c112a8801de4ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_f0a18fc851d32262a6966eb6eba36fce54138461/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_21f23090c95d4902cab9025511adf98eaa5615d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_589768cf092d0a90112321b44360711adb6f914a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_31cce4db6d69cb8dfe8a7640315c4ce79b746a9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_b56fa8421aa68561ab21046e44aac1cd88570ced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_afaa58ab32ee705f1578e5dfb3b6628706a97dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_db096595fc4861d9679b289bbcf58bc4e746b6ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_087be93f821d1bfb12287544ea34979aec067352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_4b9ab3ed9049ba146d27ff88f1d05cefdca35c33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_ee3be688fe926597974e5317a93b5c8f8069cb44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_ca6da13512edfe1b0cea585c5bf38eb16604ccc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_1f95ac3538c84ba34c141e2e25a62d3e96f76b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_06b8a4ce3dde2ac4865b3562dae99c6d0b1433dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_84bbc7c3e35d732a74a71ee05fe655a2d1b05587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_4948eb4c837ef49d5ecb2af0a42dea5b9a57c1e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_a32708fd70c48fb2fd1d2f423d3b183090bb26e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a06906ac3b8ceb05f292a4903fef630ca3cbe7db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_aeeed6fb59cf0b54ce5391a5c64fbb0c8d1e14c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_b138578804ab2680e35457384a107bebfb1f7568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_bbf90953a9c49b092fc8a52785b929b755a45805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_daec0ee5a800688d0cd46a6a0fae1b2a4cac4775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_fb0002145a30fa0c3f88423497e033e9fbf83789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7eb3d397bad0310adc705f06cef8b8f9a8c3706e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_d4723345f78c23238dbf5b8d6a9df7c50de92962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_487f373a6ad111fa9ddf00b4a1dd5de80e28dc7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_2910107ce1ee282c637737ad8092bc86f5a14ba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_7395ef807d2c28396ed38adfa8c5de6e69413e39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_85e31f39b0994043409eb9bc1153930499fd3c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_acb2310346d175a1ab826e9d3f69f0194783141b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_0857182e25cfc83b8c3ce94e28087ffa90cd04a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_6a25a3aadb42fae13da1192e518f5436f59ddd44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53e2bb76120efd5f89c2c3649d63a242ed40ebee">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_470b0c7df2d7b1a64075985fb85a02a2704c2b2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_05651737b88459eedc78e4969c78513b05846a5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_f785e5acecd41e65b56206843eb9812731c2c190/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3adff8c7cad3e68d8f91657b2d7a9fcdb9f6e428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_9e73ab63190344658f509c10447e639e22078300/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_eaedbd9dfe579d2b835da2ecdab6349cc3fa24b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_3ac5a3eba663a7d62aac99bce1ba495551d4d63a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_1db95ce059eb47ef30087805ca5f9e2ad9ce0b5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_a78492ca441ddc652a350ac20c192af5508ccf69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_678429eb85b914ded0d6525be8e1ba09615d43f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_7fa401b93ddbe42cfa48bbad76689c6730b8142e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_cfe5f55cf8c8977ea53c070028e68ef047cb6e4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_d6d740cab02ec0a8871022f2f74f1b53051db2ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_23a495fe0dc725ec0159c3cad0b458ea62e80728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_15479ade0d93d32818cdc89c95269de2fa8a6e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_ed6d30a1af7d139bb7fa9478f4e06c198072186c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_7bf90b0542dd6e2484cc021816f38c31fac0c62f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_304dbdac351fe284ecaa46ddd84f0cd911986140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_7de6807e6b874c95ca2b829e65979544d6af71a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ichema/Documents/Sapal/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/home/ichema/Documents/Sapal/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_1b306ca3eddee8f8bfd87b8fa55792d92cc41b51/classes.dex" />
+    </item>
+
+</items>
